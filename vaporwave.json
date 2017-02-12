@@ -1,0 +1,356 @@
+{
+	"name": "*ｖａｐｏｒｗａｖｅ*",
+	"manager": "TheBlackParrot",
+	"safe_name": "vaporwave",
+
+	"library": [
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=cU8HrO7XuiE",
+			"artist": "MACINTOSH PLUS",
+			"title": "リサフランク420 / 現代のコンピュー",
+			"timestamp": 1486791162,
+			"uid": "0"
+		},
+
+		{
+			"service": "bc",
+			"url": "https://midwestcollective.bandcamp.com/track/resonance",
+			"artist": "HOME",
+			"title": "Resonance",
+			"timestamp": 1486791162,
+			"uid": "1"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=_hI0qMtdfng",
+			"artist": "Saint Pepsi",
+			"title": "Enjoy Yourself",
+			"timestamp": 1486791162,
+			"uid": "2"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=Ki-fATpXa00",
+			"artist": "Saint Pepsi",
+			"title": "Private Caller",
+			"timestamp": 1486791162,
+			"uid": "3"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/home-2001/decay",
+			"artist": "HOME",
+			"title": "Decay",
+			"timestamp": 1486791162,
+			"uid": "4"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/emil-rottmayer/descend",
+			"artist": "Emil Rottmayer",
+			"title": "Descend",
+			"timestamp": 1486791162,
+			"uid": "5"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/capecoral/could-this-be-love",
+			"artist": "CAPE CORAL",
+			"title": "Could This Be Love",
+			"timestamp": 1486791162,
+			"uid": "6"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/fibremusic/echoplex",
+			"artist": "FIBRE",
+			"title": "Echoplex (feat. Tendencies)",
+			"timestamp": 1486791380,
+			"uid": "7"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/tanukimusic/tanuki-babybaby-fc-ep-free",
+			"artist": "TANUKI",
+			"title": "BABYBABYの夢",
+			"timestamp": 1486791477,
+			"uid": "8"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/hibikiaudio/loveyouforever",
+			"artist": "Hibiki",
+			"title": "愛してるFOREVER",
+			"timestamp": 1486805389,
+			"uid": "9"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/shojimusic/sweet-memory",
+			"artist": "Shoji正治",
+			"title": "Sweet Memory ☁",
+			"timestamp": 1486805389,
+			"uid": "A"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/aloeislandposse/raceway-park",
+			"artist": "Aloe Island Posse",
+			"title": "Raceway Park",
+			"timestamp": 1486805389,
+			"uid": "B"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=6UosfX5u14g",
+			"artist": "driver",
+			"title": "the eye of truth",
+			"timestamp": 1486805389,
+			"uid": "C"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=MrSgSLcOYDo",
+			"artist": "Flamingosis",
+			"title": "Flight of the Flamingo",
+			"timestamp": 1486805389,
+			"uid": "D"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=JGtZLON2DV0",
+			"artist": "Desired",
+			"title": "Eyes On Me",
+			"timestamp": 1486805389,
+			"uid": "E"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=y2jVJ8GDUCE",
+			"artist": "92",
+			"title": "Hey, Girl",
+			"timestamp": 1486805389,
+			"uid": "F"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=d7deIbHe8dk",
+			"artist": "FIBRE",
+			"title": "Highlights",
+			"timestamp": 1486808245,
+			"uid": "G"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=xyJUmBWCXBw",
+			"artist": "Aritus",
+			"title": "Keep",
+			"timestamp": 1486809370,
+			"uid": "H"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=4BSJAAo1uNY",
+			"artist": "マクロスMACROSS 82-99",
+			"title": "Fun Tonight",
+			"timestamp": 1486809479,
+			"uid": "I"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=ZH5hfRi-dVg",
+			"artist": "AnTgry",
+			"title": "Happy Face",
+			"timestamp": 1486809577,
+			"uid": "J"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=qZ93w3xF9E8",
+			"artist": "コンシャスTHOUGHTS",
+			"title": "Summer Daze",
+			"timestamp": 1486809687,
+			"uid": "K"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=mBe8xOk7jD0",
+			"artist": "コンシャスTHOUGHTS",
+			"title": "Star Struck",
+			"timestamp": 1486809754,
+			"uid": "L"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=T0OQn33xF_c",
+			"artist": "Discandy",
+			"title": "ハッピーエンド",
+			"timestamp": 1486809845,
+			"uid": "M"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=1_sCmrsbqoE",
+			"artist": "マクロスMACROSS 82-99",
+			"title": "Perfect Blue",
+			"timestamp": 1486809946,
+			"uid": "N"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=RZYwi30sdXo",
+			"artist": "ロードスRhodes",
+			"title": "Neon",
+			"timestamp": 1486810006,
+			"uid": "O"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=UeiKKCzbK2A",
+			"artist": "Digital Waves",
+			"title": "Wicked",
+			"timestamp": 1486810070,
+			"uid": "P"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=GwIOM8jrPOs",
+			"artist": "Asphalt",
+			"title": "Vice",
+			"timestamp": 1486810148,
+			"uid": "Q"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=14TrhPetfZI",
+			"artist": "Fibre",
+			"title": "SSM2044",
+			"timestamp": 1486810228,
+			"uid": "R"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=y_yxlTZLAsA",
+			"artist": "Riverwave 川の波",
+			"title": "VHSailing Rally",
+			"timestamp": 1486810290,
+			"uid": "S"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=BPfDBL5kkzI",
+			"artist": "Myrone",
+			"title": "Champagne Fire",
+			"timestamp": 1486810375,
+			"uid": "T"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=jM2WiLGO0Xo",
+			"artist": "Flamingosis",
+			"title": "I'll Be There (feat. Tendencies)",
+			"timestamp": 1486810448,
+			"uid": "U"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=jBhR06mD2T0",
+			"artist": "Ohbliv",
+			"title": "Prana Development",
+			"timestamp": 1486810513,
+			"uid": "V"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=PJ0ATn_LgRY",
+			"artist": "Dai Numo",
+			"title": "Synths Then",
+			"timestamp": 1486810599,
+			"uid": "W"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=1dZNCla4-aM",
+			"artist": "Funkmammoth",
+			"title": "It'll Be Ok",
+			"timestamp": 1486810747,
+			"uid": "X"
+		},
+
+		{
+			"service": "yt",
+			"url": "https://www.youtube.com/watch?v=zcmk4qvye90",
+			"artist": "Jedh x Eggglub",
+			"title": "kiwi ah",
+			"timestamp": 1486810886,
+			"uid": "Y"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/futurefunk_com/yung-bae-bae-city-rollaz-w-v",
+			"artist": "YUNG BAE",
+			"title": "Bae City Rollaz",
+			"timestamp": 1486886363,
+			"uid": "Z"
+		},
+
+		{
+			"service": "sc",
+			"url": "https://soundcloud.com/desired/the-most-generic-future-funk-song-ever",
+			"artist": "Desired",
+			"title": "The Most Generic Future Funk Song Ever",
+			"timestamp": 1486886465,
+			"uid": "10"
+		},
+
+		{
+			"url": "https://keatscollective.bandcamp.com/track/drive",
+			"artist": "ミカヅキBIGWAVE",
+			"title": "Driveに連れて行って",
+			"timestamp": 1486886687,
+			"uid": "11"
+		},
+
+		{
+			"url": "https://keatscollective.bandcamp.com/track/kawaii-dreamer",
+			"artist": "ミカヅキBIGWAVE",
+			"title": "Kawaii Dreamer",
+			"timestamp": 1486886772,
+			"uid": "12"
+		}
+	]
+}
