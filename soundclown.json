@@ -1,0 +1,127 @@
+{
+	"name": ":rofl: SoundClown :clown:",
+	"manager": "TheBlackParrot, Office Pirate",
+	"safe_name": "soundclown",
+
+	"library": [
+		{
+			"url": "https://soundcloud.com/sterecords/arthur-is-a-hot-nigga",
+			"artist": "Sonic Teh Edgehog REcords",
+			"title": "Arthur is a hot nigga",
+			"timestamp": 1486893079,
+			"uid": "0"
+		},
+
+		{
+			"url": "https://soundcloud.com/princessrosalina/freddy-hill",
+			"artist": "PrincessRosalina",
+			"title": "Freddy Hill",
+			"timestamp": 1486893079,
+			"uid": "1"
+		},
+
+		{
+			"url": "https://soundcloud.com/maneatingoranges/mario64",
+			"artist": "Pretty Boy",
+			"title": "mario64",
+			"timestamp": 1486893079,
+			"uid": "2"
+		},
+
+		{
+			"url": "https://soundcloud.com/personalpong/donkyong-1",
+			"artist": "i'm back baybeee",
+			"title": "Donkyong",
+			"timestamp": 1486893079,
+			"uid": "3"
+		},
+
+		{
+			"url": "https://soundcloud.com/sean-peden/crank-on-me",
+			"artist": "Sean Peden",
+			"title": "Crank On Me",
+			"timestamp": 1486893079,
+			"uid": "4"
+		},
+
+		{
+			"url": "https://soundcloud.com/napemango/remove-gas-pedal",
+			"artist": "Our Lord And Savior, Nick",
+			"title": "REMOVE GAS PEDAL",
+			"timestamp": 1486893079,
+			"uid": "5"
+		},
+
+		{
+			"url": "https://soundcloud.com/mcmangos/beastie-birds",
+			"artist": "McMaNGOS",
+			"title": "Beastie Birds",
+			"timestamp": 1486893079,
+			"uid": "6"
+		},
+
+		{
+			"url": "https://soundcloud.com/lemmy-koopa-2/dig-down-for-what",
+			"artist": "Lemmy Koopa",
+			"title": "Dig Down For What",
+			"timestamp": 1486893079,
+			"uid": "7"
+		},
+
+		{
+			"url": "https://soundcloud.com/avolience/souljarude-crankstorm",
+			"artist": "Nobody really / Avolience",
+			"title": "Souljarude - Crankstorm",
+			"timestamp": 1486893079,
+			"uid": "8"
+		},
+
+		{
+			"url": "https://soundcloud.com/the-death-of-comedy/press-down-2-duck",
+			"artist": "the death of comedy‏‏‏‏‏‏‏‏‏‏‏",
+			"title": "#pressdown2duck",
+			"timestamp": 1486893079,
+			"uid": "9"
+		},
+
+		{
+			"url": "https://soundcloud.com/yungterra/startupdmg",
+			"artist": "yungterra",
+			"title": "startup.dmg",
+			"timestamp": 1486893079,
+			"uid": "10"
+		},
+
+		{
+			"url": "https://soundcloud.com/smug-memeing-doggo/trudermark-gave-me-this-idea",
+			"artist": "The Meme Machine",
+			"title": "Trudermark gave me this idea",
+			"timestamp": 1486893079,
+			"uid": "11"
+		},
+
+		{
+			"url": "https://soundcloud.com/slaughterthechildren/why-things-like-this-are-allowed-to-be-processed-by-the-human-brain-i-do-not-know",
+			"artist": "Taiga, the Creator",
+			"title": "why things like this are allowed to be processed by the human brain i do not know",
+			"timestamp": 1486893079,
+			"uid": "12"
+		},
+
+		{
+			"url": "https://soundcloud.com/thrifty-sofes/aloneflp",
+			"artist": "Captain Shitpooper",
+			"title": "alone.flp",
+			"timestamp": 1486893079,
+			"uid": "13"
+		},
+
+		{
+			"url": "https://soundcloud.com/ya-ya-ya-the-creator/animals-in-the-90s",
+			"artist": "ya ya ya, the creator",
+			"title": "Animals In The 90s",
+			"timestamp": 1486893079,
+			"uid": "14"
+		}
+	]
+}
