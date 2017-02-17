@@ -457,6 +457,27 @@
 			"artist": "haircuts for men",
 			"title": "彼女のお気に入りのディスコを閉じました",
 			"timestamp": 1486886772
+		},
+
+		{
+			"url": "https://sunsetrecordings.bandcamp.com/track/falling-star",
+			"artist": "VHSテープリワインダー",
+			"title": "falling star",
+			"timestamp": 1487298497
+		},
+
+		{
+			"url": "https://sunsetrecordings.bandcamp.com/track/seductive",
+			"artist": "VHSテープリワインダー",
+			"title": "seductive",
+			"timestamp": 1487298497
+		},
+
+		{
+			"url": "https://oceanjams.bandcamp.com/track/777",
+			"artist": "[ocean jams]",
+			"title": "777",
+			"timestamp": 1487299122
 		}
 	]
 }
